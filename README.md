@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manvi-smaran](https://github.com/manvi-smaran)
 
-- 💬 Ask me about **pytorch,python,scikit learn**
+- 💬 Ask me about **pytorch,python,scikit learn,numpy,pandas,**
 
 - 📫 How to reach me **manvivemula17@gmail.com**
 
